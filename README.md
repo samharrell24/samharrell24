@@ -2,6 +2,7 @@
 
 Interests:
 - Cloud Computing
+- HPC
 - Kubernetes
 - Distributed Systems
 - DevOps
